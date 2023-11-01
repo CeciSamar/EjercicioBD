@@ -1,0 +1,1 @@
+SELECT * FROM ejercicio_bd.usuarios;
